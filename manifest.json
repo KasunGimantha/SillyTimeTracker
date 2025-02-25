@@ -1,0 +1,8 @@
+{
+  "name": "SillyTimeTracker",
+  "description": "A session tracking plugin for SillyTavern.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kasun Gimantha",
+  "license": "MIT"
+}
